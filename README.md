@@ -7,7 +7,7 @@ Public monorepo to store all 15 internship projects.
 ```
 internship-projects/
   project-01-student-management-system/  # Done - Student Management System (Core Java)
-  project-02/  # TODO
+  project-02-hospital-management-system/  # Done - Hospital Management System (OOP + Advanced Java, 70 pts)
   project-03/  # TODO
   project-04/  # TODO
   project-05/  # TODO
@@ -33,6 +33,16 @@ Location: `project-01-student-management-system/`
 cd project-01-student-management-system
 javac -d out src/Main.java src/Student.java src/StudentManager.java
 java -cp out Main
+```
+
+## Project 02 - Hospital Management System
+Location: `project-02-hospital-management-system/`
+- OOP & Advanced Java (70 pts mandatory): Person/Patient/Doctor, Appointment, Prescription, Bill polymorphism, custom exceptions, packages com.hospital.*
+- Run:
+```bash
+cd project-02-hospital-management-system
+javac -d out $(find src -name "*.java")
+java -cp out com.hospital.main.Main
 ```
 
 ## How to add a new project
