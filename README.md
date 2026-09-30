@@ -25,7 +25,6 @@ internship-projects/
 
 ## Project 01 - Student Management System
 Location: `project-01-student-management-system/`
-- Source: https://github.com/vinuthnagit1830/Core-Java-Programming-Problem-Solving
 - Features: Add / View / Search / Delete Student, Grade Calculation, Input Validation
 - Tech: Core Java, Scanner, Arrays, OOP basics
 - Run:
