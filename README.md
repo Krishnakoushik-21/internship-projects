@@ -52,5 +52,3 @@ git add project-02-your-project-name
 git commit -m "Add project-02-your-project-name"
 git push origin main
 ```
-
-Source cloned from: https://github.com/vinuthnagit1830/Core-Java-Programming-Problem-Solving
